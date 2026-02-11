@@ -11,12 +11,7 @@
 - Tailwind CSS
 - Appwrite
 
-### 📌 Current Projects
-- Social media-style rant website
-- Laptop recommendation site
-- Music streak app
-
 ### 🌱 Currently Learning
-- React hooks
-- Component design
-- API & Appwrite integration
+- Python
+- Flask
+- NextJS
