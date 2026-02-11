@@ -1,9 +1,9 @@
 ## Hi, I'm Carl 👋
 
-🎓 Aspiring Front-End Developer  
+🎓 Aspiring Full-Stack Developer  
 ⚛️ Learning React + Vite  
 🎨 Using Tailwind CSS  
-🚀 Building small projects every week  
+🚀 Building small projects   
 
 ### 🛠 Tech Stack
 - HTML, CSS, JavaScript
