@@ -1,4 +1,6 @@
-# Carl Ramos
+<div align="center">
+  # Carl Ramos
+</div>
 
 <div align="center">
 
