@@ -69,28 +69,6 @@ My primary focus is creating full-stack applications using modern JavaScript fra
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=carlramos&show_icons=true&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlramos&layout=compact&hide_border=true" />
-
-</div>
-
----
-
-## Contribution Streak
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/FreeCodeCamp-1,200%20Hours-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" />
-
-</div>
-
----
-
 ## Featured Projects
 
 | Project                 | Description                                                         |
