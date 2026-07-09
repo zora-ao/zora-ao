@@ -1,8 +1,6 @@
 <div align="center">
-  ### Just Call me Carl 👋
-</div>
 
-<div align="center">
+# Just Call me Carl 👋
 
 ### Full-Stack Developer | Computer Science Student
 
