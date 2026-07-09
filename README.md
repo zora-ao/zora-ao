@@ -73,9 +73,9 @@ My primary focus is creating full-stack applications using modern JavaScript fra
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=carlramos&show_icons=true&hide_border=true&rank_icon=github" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlramos&layout=compact&hide_border=true" />
 
 </div>
 
@@ -85,7 +85,7 @@ My primary focus is creating full-stack applications using modern JavaScript fra
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true" />
+<img src="https://img.shields.io/badge/FreeCodeCamp-1,200%20Hours-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" />
 
 </div>
 
@@ -106,11 +106,15 @@ My primary focus is creating full-stack applications using modern JavaScript fra
 <p align="left">
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.freecodecamp.org/carl-ramos">
+  <img src="https://img.shields.io/badge/FreeCodeCamp-Visit_Profile-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" />
 </a>
 
 </p>
