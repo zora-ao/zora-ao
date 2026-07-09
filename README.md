@@ -1,6 +1,6 @@
-# Hi, I'm Carl :>
 
 <div align="center">
+### Hi, I'm Carl :>
 
 ### Full-Stack Developer | Computer Science Student
 
