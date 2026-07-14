@@ -92,7 +92,7 @@ My primary focus is creating full-stack applications using modern JavaScript fra
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://www.freecodecamp.org/carl-ramos">
+<a href="https://www.freecodecamp.org/ao_zora">
   <img src="https://img.shields.io/badge/FreeCodeCamp-Visit_Profile-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" />
 </a>
 
