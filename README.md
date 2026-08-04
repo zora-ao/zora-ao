@@ -5,7 +5,7 @@
 
 ### Full-Stack Developer | Computer Science Student
 
-Building modern web applications with React, Next.js, Python, and scalable databases.
+Building modern full-stack web applications.
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Computer+Science+Student;Building+Projects+That+Solve+Problems;Always+Learning+New+Technologies" alt="Typing SVG" />
 
@@ -61,22 +61,7 @@ My primary focus is creating full-stack applications using modern JavaScript fra
 
 ```txt
 ▸ Full-Stack Development
-▸ Next.js Applications
-▸ API Development
-▸ Database Design
-▸ Software Engineering Fundamentals
-▸ Building Portfolio Projects
 ```
-
----
-
-## Featured Projects
-
-| Project                 | Description                                                         |
-| ----------------------- | ------------------------------------------------------------------- |
-| Crop Tracker            | Farm management platform for tracking crops, expenses, and harvests |
-| Full-Stack Applications | Modern web applications using React, Next.js, and databases         |
-| Learning Projects       | Projects focused on improving software engineering skills           |
 
 ---
 
@@ -103,7 +88,5 @@ My primary focus is creating full-stack applications using modern JavaScript fra
 <div align="center">
 
 ### Building, Learning, and Growing Every Day
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge" />
 
 </div>
