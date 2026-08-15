@@ -1,13 +1,10 @@
-
 <div align="center">
-  
-## Hi, I'm Carl
 
-### Full-Stack Developer | Computer Science Student
+# Hi, I'm Carl
 
-Building modern full-stack web applications.
+**Full-Stack Developer · Computer Science Student**
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Computer+Science+Student;Building+Projects+That+Solve+Problems;Always+Learning+New+Technologies" alt="Typing SVG" />
+Building modern web applications and learning along the way.
 
 </div>
 
@@ -26,33 +23,33 @@ My primary focus is creating full-stack applications using modern JavaScript fra
 ### Frontend
 
 <p align="left">
-<img src="https://img.shields.io/badge/-20232A?style=flat&logo=react&logoColor=61DAFB&logoWidth=30" />
-<img src="https://img.shields.io/badge/-000000?style=flat&logo=nextdotjs&logoColor=white&logoWidth=30" />
-<img src="https://img.shields.io/badge/-F7DF1E?style=flat&logo=javascript&logoColor=black&logoWidth=30" />
-<img src="https://img.shields.io/badge/-06B6D4?style=flat&logo=tailwindcss&logoColor=white&logoWidth=30" />
-<img src="https://img.shields.io/badge/-000000?style=flat&logo=shadcnui&logoColor=white&logoWidth=30" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/white" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/shadcnui/white" width="40" height="40" />
 </p>
 
 ### Backend
 
 <p align="left">
-<img src="https://img.shields.io/badge/-3776AB?style=flat&logo=python&logoColor=white&logoWidth=30" />
-<img src="https://img.shields.io/badge/-000000?style=flat&logo=flask&logoColor=white&logoWidth=30" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/flask/white" width="40" height="40" />
 </p>
 
 ### Databases & Cloud
 
 <p align="left">
-<img src="https://img.shields.io/badge/-316192?style=flat&logo=postgresql&logoColor=white&logoWidth=30" />
-<img src="https://img.shields.io/badge/-4EA94B?style=flat&logo=mongodb&logoColor=white&logoWidth=30" />
-<img src="https://img.shields.io/badge/-181818?style=flat&logo=supabase&logoColor=3ECF8E&logoWidth=30" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/supabase/3FCF8E" width="40" height="40" />
 </p>
 
 ### Tools & Libraries
 
 <p align="left">
-<img src="https://img.shields.io/badge/-F05032?style=flat&logo=git&logoColor=white&logoWidth=30" />
-<img src="https://img.shields.io/badge/-FF4154?style=flat&logo=reactquery&logoColor=white&logoWidth=30" />
+  <img src="https://cdn.simpleicons.org/git/F05032" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/reactquery/FF4154" width="40" height="40" />
 </p>
 
 ---
@@ -68,21 +65,18 @@ My primary focus is creating full-stack applications using modern JavaScript fra
 ## Connect With Me
 
 <p align="left">
+  <a href="https://github.com/zora-ao">
+    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" height="40" />
+  </a>
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+  <a href="mailto:carljasperramos97@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40" />
+  </a>
 
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.freecodecamp.org/ao_zora">
-  <img src="https://img.shields.io/badge/FreeCodeCamp-Visit_Profile-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" />
-</a>
-
+  <a href="https://www.freecodecamp.org/zora-ao">
+    <img src="https://cdn.simpleicons.org/freecodecamp/FFFFFF" width="40" height="40" />
+  </a>
 </p>
-
 ---
 
 <div align="center">
