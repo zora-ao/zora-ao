@@ -26,33 +26,33 @@ My primary focus is creating full-stack applications using modern JavaScript fra
 ### Frontend
 
 <p align="left">
-<img src="https://img.shields.io/badge/-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+<img src="https://img.shields.io/badge/-20232A?style=flat&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/-000000?style=flat&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/-000000?style=flat&logo=shadcnui&logoColor=white" />
 </p>
 
 ### Backend
 
 <p align="left">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-000000?style=flat&logo=flask&logoColor=white" />
 </p>
 
 ### Databases & Cloud
 
 <p align="left">
-<img src="https://img.shields.io/badge/-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
+<img src="https://img.shields.io/badge/-316192?style=flat&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/-4EA94B?style=flat&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/-181818?style=flat&logo=supabase&logoColor=3ECF8E" />
 </p>
 
 ### Tools & Libraries
 
 <p align="left">
-<img src="https://img.shields.io/badge/-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+<img src="https://img.shields.io/badge/-F05032?style=flat&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/-FF4154?style=flat&logo=reactquery&logoColor=white" />
 </p>
 
 ---
