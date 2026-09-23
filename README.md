@@ -2,7 +2,7 @@
 
 # Hi, I'm Carl
 
-**Full-Stack Developer · Computer Science Student**
+**Website Developer · Computer Science Student**
 
 Building modern web applications and learning along the way.
 
